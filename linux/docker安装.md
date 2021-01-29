@@ -75,3 +75,5 @@
     sudo systemctl restart docker
     ```
     
+
+12.  官方安装地址 https://docs.docker.com/engine/install/centos/
